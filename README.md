@@ -12,6 +12,7 @@ seer = 先知 + 幻想家，成功则是先知，失败则是一场幻想。
 
 
 (data source) => [crawler] => (raw data) => [abstractor] => (current factors) => [predictor] => (coins)
+
                                                          => (history factors) =>
 
 - **crawler**: 从数据源爬数据得简单处理的原始数据，数据源有哪些见下文。python的scrapy是个漂亮的爬虫框架，我用过，可以满足需求。原始数据存储随便用什么，但考虑到mongoDB可以比较好地支持不同结构的数据，且scrapy对它的支持比较好，因此拟用mongoDB来存。
