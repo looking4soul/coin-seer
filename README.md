@@ -22,11 +22,49 @@ seer = 先知 + 幻想家，成功则是先知，失败则是一场幻想。
 
 ## 数据源 => 因素
 
-- 交易所 => 价格 交易量 等
+### 交易所 => 价格 交易量 等
 
-- 社区 => 关注度 贴数
+- [poloniex](https://poloniex.com/)
+- [bittrex](https://bittrex.com/)
+- [Kraken](www.kraken.com)
+- [Bitfinex](www.bitfinex.com)
+- [云币网](https://yunbi.com/)
+- [okcoin](https://www.okcoin.cn/)
+- [火币网](https://www.huobi.com/)
+- [more](http://coinmarketcap.com/currencies/bitcoin/#markets)
 
-- 网络媒体 => 曝光率
+### 数字币列表
+
+- [coinmarketcap](http://coinmarketcap.com/all/views/all/)
+
+### 社区 => 关注度 贴数
+
+- [bitcointalk](https://bitcointalk.org/)
+- [bitcoin forum](https://forum.bitcoin.com/)
+
+- [ethereum forum](https://forum.ethereum.org/)
+
+- [xrpchat](http://www.xrpchat.com/)
+
+- [litecointalk](https://litecointalk.org/)
+- [litecoin annoucement](https://bitcointalk.org/index.php?topic=47417.0)
+
+- [Monero forum](https://forum.getmonero.org/)
+- [Monero annoucement](https://bitcointalk.org/index.php?topic=583449.0)
+
+- [etc annoucement](https://bitcointalk.org/index.php?topic=1559630.0)
+
+- [dash forum](https://www.dash.org/forum/)
+- [dash annoucement](https://bitcointalk.org/index.php?topic=421615.0)
+
+- [MaidSafeCoin forum](https://safenetforum.org/)
+- [MaidSafeCoin annoucement](https://bitcointalk.org/index.php?topic=579797.0)
+
+- [more](http://coinmarketcap.com/all/views/all/)
+
+### 网络媒体 => 曝光率
+
+- [巴比特](http://www.8btc.com/)
 
 - 开发团队 => 团队实力 开发活跃度
 
